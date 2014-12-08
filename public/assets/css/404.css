@@ -1,0 +1,25 @@
+body {
+	background: url('../img/hasselhoff.jpg') no-repeat;
+	background-size: cover;
+	color: #fff;
+}
+
+a {
+	color: hotpink;
+}
+
+h1 {
+	font-family: 'Comic Sans MS', sans-serif;
+	font-size: 2em;
+	color: hotpink;
+}
+	
+blockquote {
+	background-color: #000;
+	opacity: 0.7;
+	font-size: 3em;
+	font-style: italic;
+	position: fixed;
+	bottom: 50px;
+	width: 100%;
+}

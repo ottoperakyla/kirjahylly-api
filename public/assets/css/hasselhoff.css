@@ -1,0 +1,9 @@
+body {
+	background: url('../img/hasselhoff.jpg') no-repeat;
+	background-size: cover;
+	color: #fff;
+}
+
+.form-control {
+	background-color: transparent;
+}

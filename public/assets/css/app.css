@@ -1,0 +1,48 @@
+body {
+	padding: 20px;
+}
+
+form input, form textarea {
+	display: block;
+}
+
+.form-control {
+	height: 50px;
+	font-size: 2em;
+}
+
+input[type=checkbox] {
+	position: static !important;
+}
+
+table th, table td {
+	padding: 10px;
+}
+
+button#add {
+	margin-top: 10px;
+}
+
+ul.errors {
+	margin: 0;
+	padding: 0;
+	margin-left: 20px;
+}
+
+ul.errors li {
+	color: #f00;
+	font-style: italic;
+}
+
+a#logout {
+	position: absolute;
+	right: 20px;
+}
+
+table {
+	width: 100%;
+}
+
+td.actions input {
+	width: 70px;
+}
